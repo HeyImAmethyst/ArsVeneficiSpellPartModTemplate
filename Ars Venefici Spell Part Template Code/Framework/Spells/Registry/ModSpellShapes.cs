@@ -12,6 +12,8 @@ namespace ArsVeneficiSpellPartModTemplate.Framework.Spells.Registry
         public static ObjectRegister<AbstractShape> SHAPES = ObjectRegister<AbstractShape>.Create(ModEntry.ArsVenificiTestModId);
 
         //Register your custom shapes here. Make sure to add a translation for them in the translation files.
+        //Make sure to add an icon png named with the same id for each component in the content pack included in the template.
+        //Those icons goes in "assets/icon/spellpart/"
         //You can look at the Ars Venefici source code for more examples for how these are created.
 
         public static ObjectHolder<AbstractShape> EXAMPLE_SHAPE = RegisterShape(new ObjectHolder<AbstractShape>(new ExampleShape()));
