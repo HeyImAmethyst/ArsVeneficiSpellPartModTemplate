@@ -1,0 +1,17 @@
+﻿{
+    "Name": "Ars Venefici Spell Part Mod Template",
+    "Author": "HeyImAmethyst",
+    "Version": "1.0",
+    "Description": "This mod adds new spell parts to the Ars Venefici Mod.",
+    "UniqueID": "HeyImAmethyst.ArsVeneficiSpellParts",
+    "EntryDll": "Ars Venefici Spell Part Mod Template.dll",
+    "MinimumApiVersion": "4.1.4",
+    "dependencies": [
+        {
+            "UniqueID": "HeyImAmethyst.ArsVenefici",
+            "MinimumVersion": "1.12",
+            "isRequired": true
+        }
+    ],
+    "UpdateKeys": []
+}

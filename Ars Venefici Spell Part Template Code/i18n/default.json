@@ -1,0 +1,20 @@
+{
+	/*********
+	** Spell Parts
+	*********/
+
+	"spellpart.example_shape.name": "Example Shape",
+	"spellpart.example_shape.description": "Example Description",
+
+	"spellpart.example_component.name": "Example Component",
+	"spellpart.example_component.description": "Example Description",
+
+	"spellpart.example_generic_modifier.name": "Example Generic Modifer",
+	"spellpart.example_generic_modifier.description": "Example Description",
+
+	"spellpart.example_modifier.name": "Example Modifer",
+	"spellpart.example_modifier.description": "Example Description",
+
+	"spellpart.spirit_light.name": "Spirit Light",
+	"spellpart.spirit_light.description": "Places a spirit torch at the specified location. Torches created with this will not be recoverable."
+}
